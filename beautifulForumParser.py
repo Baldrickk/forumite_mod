@@ -108,7 +108,9 @@ def player_posts(post_soup):
   number = (  post_soup.find('li', class_='post_count desc lighter margin-bottom')
         .find('span', class_='row_data').text.replace(',', ''))
   return int(number)
-    
+
+def player_guest(post_soup):
+  return post_soup.find('li', class_='group_title').text.strip() == 'Guest'
 
 def players_from_page(link, nameD):
   max_str_len = 0
@@ -119,6 +121,8 @@ def players_from_page(link, nameD):
     print (f'\r{link}'.ljust(max_str_len), end="")
     soup = make_soup(link)
     for post in soup('div', class_='post_wrap'):
+      if player_guest(post):
+        continue
       player = {}
       player['name' ] = player_name (post)
       player['clan' ] = player_clan (post)
