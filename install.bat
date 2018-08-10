@@ -5,7 +5,9 @@ SET install_dir=C:\Games\World_of_Tanks
 SET mod_dir=%install_dir%\res_mods\mods\shared_resources\xvm\res\clanicons\EU\
 
 if exist %install_dir%\WorldOfTanks.exe (
+  rd /Q /S %mod_dir%\clan
   md %mod_dir%\clan
+  rd /Q /S %mod_dir%\nick
   md %mod_dir%\nick
   for /F "tokens=*" %%N in (nicks.txt) do copy forumite_small.png %mod_dir%\nick\%%N.png
   for /F "tokens=*" %%T in (trolls.txt) do copy warning_small.png %mod_dir%\nick\%%T.png

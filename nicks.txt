@@ -22,7 +22,6 @@
 1st_Rob
 1ucky
 22cm
-250swb
 2Bob4Good
 2Tee2
 2alertred
@@ -58,7 +57,6 @@
 90grimli90
 91tibor
 94mala94
-ABCWarrrior
 ABC_Przyrody
 ABUKAMEL
 AC130Pilot
@@ -106,7 +104,6 @@ Aikl
 Aim_Away_From_Face
 Aim_Drol
 Aimazing
-Aimless
 Aine
 Air_Scotland
 Aiston
@@ -260,7 +257,6 @@ Avange_sevenfold
 AvengerOrion
 Avtonom
 Awkward__Customer
-Axarn
 Axe_Killer
 Axelfoley666
 Axia
@@ -285,7 +281,6 @@ BSHDBCG
 BYCZEK1PL
 B_Mashina
 B_Roy
-Babbet_1
 Bad_Mojo_incoming
 Baeckerin
 Baine
@@ -309,7 +304,6 @@ Barsaman
 Basardius
 BatGurl
 BatelGeuce
-BattleMetalChris
 Battle_Penguin
 Battledragon
 Battlestar1965
@@ -323,7 +317,6 @@ Bazz62
 Be_seeing_you
 BeastWar
 Beast_322
-BeciMester
 Belajasm3rt
 Belgalisk
 Belizarius
@@ -372,7 +365,6 @@ Black_Gold_Saw
 Black_Mamba24_
 Black_Sheep_01
 Black__Legion
-Blackadder75
 Blackcell29_LV
 Blackeon
 BladeRexi
@@ -417,7 +409,6 @@ BonjiOrongji
 Bonzo_dog
 Boo_Bee
 Boomer7
-Bora_BOOM
 Bordhaw
 Born11
 Borso
@@ -431,7 +422,6 @@ BountyHunter_
 Bowser_nl
 BradWulf
 Branna
-Brav_LOWE
 BravelyRanAway
 Bravo_two_six
 Brazilski
@@ -442,7 +432,6 @@ Britannkic
 Britzz
 Brodie_
 Broke_Again
-BrokenWing
 Bronn1
 Browarszky
 Brownape
@@ -460,7 +449,6 @@ BugPowderDust
 Bulanskovich
 Bulge_survivor
 Bull_the_Great
-Bulldog_Drummond
 Bullitt
 Burglaralarm
 Burty61
@@ -535,7 +523,6 @@ Chevayo
 ChewiKowalski_HK
 Chicha_Drazza
 Chillius
-Chimeratech
 Chipmunk_of_Vengeance
 ChocoSmith
 Chokolade_Muffin
@@ -623,14 +610,11 @@ Crasharr
 Cravone
 CrazyKetchup
 CrazyWelshy
-CremeFraiche
 CrimsonEntropy
 Critical_Hit
-CrniVrag
 CroFalcon
 CroPanzer
 CroatorumRex
-Cronester
 Crooq_Lionfang
 CrouchingGrandpa
 CroustibatFR
@@ -718,7 +702,6 @@ DarkrFront
 Darkrenown
 Darksteel_Plate
 Darkstormer84
-Darky1029
 Daroo2017
 DarthPootin
 DarthWanderer
@@ -740,7 +723,6 @@ Dead3yez
 DeadM0u5
 DeadSkies
 Dead_Skin_Mask
-Dead_in_30_seconds
 DeadlyFighter
 DeadlySin85
 Deadoks
@@ -873,7 +855,6 @@ Dragonlordcv
 Dragos_CS
 Drahau
 DrakeZiggo
-Draz_H
 DrcCZ
 Dreachon
 DreadArchangel
@@ -936,12 +917,10 @@ Ehi_CZ
 Eidoss1
 Eight_Ball
 Eila_Juutilainen
-EimiuX
 Eisenleid
 ElKinkku
 El_Camarada_Presidente
 El_Espanol_
-Element6_TheSprout
 Elhazzared
 Eligible
 Elkerlyc
@@ -955,18 +934,15 @@ Emily_FV
 Emissary_Of_Death
 EmperorSafirius
 Enderman21
-Enforcer1975
 Enmai
 Envoy_MT
 Eokokok
-Epe12
 Ephemerich
 EpicFale
 Equilibriator
 Erapin
 Erjust
 Ersta
-Erwin_Von_Braun
 EscapeArtist
 Esourze
 Esterex33
@@ -985,7 +961,6 @@ Evilier_than_Skeletor
 Eviscerador
 Ew_
 Ewlo99
-Excavatus
 ExclamationMark
 ExiZtenZ
 ExoSanty
@@ -1218,7 +1193,6 @@ Golem501
 Golly_
 Gooakis
 Good_Cat
-Gootti_Kustaa
 Gordie_Lachance
 GordonRamsay
 Gorthol
@@ -1383,7 +1357,6 @@ Hold_The_Door
 Holdes
 Holey_Cheese
 Hollow_Wings
-Homer_J
 Homer_J_S_
 Honest_Violence
 HonoredStone
@@ -1418,7 +1391,6 @@ Hyina
 Hyssee
 Hyster
 Hysteriaaaa
-IAmDracoTheDragon
 IBLiTZKRiEGI
 IGL
 IH8MEDS
@@ -1477,9 +1449,7 @@ IronSpear
 Iron_Pwnage
 Iron_Snake
 Isabelle
-Isharial
 Isinalle
-Isiween_
 IsoA
 Its_Matra
 IwAsSoMeGuY
@@ -1487,7 +1457,6 @@ J00F
 J0N4S2
 JAHViking
 JCNR14
-JCTagger
 JDF65
 JMartinny
 JOHN_691
@@ -1506,7 +1475,6 @@ Jagdpants_666
 Jagodinac1
 Jahpero
 Jahrain
-Jahrakajin
 JakeRoook
 Jam_in_a_Tank
 JamackanMeCrazy
@@ -1517,7 +1485,6 @@ JapLance
 JaqTaar
 Jaroslav_Unwanted
 JayJay4466
-Jay_Newb
 Jayashri
 Jazzy_Jeff
 Jbnn
@@ -1530,7 +1497,6 @@ Jesterix_
 Jethro_Grey
 Jetser
 Jeytav
-Jigabachi
 Jigzy84
 JimLahey
 Jimbodiah
@@ -1544,7 +1510,6 @@ JocMeister
 Jock_E_Spolliks
 Jocker_bih
 Joe_Crow
-Joggaman
 Jognt
 JohnDask
 JohnHenry
@@ -1576,7 +1541,6 @@ JuhaP
 JuicyProduction
 Juliant
 JuliusCheddar
-Jumping_TurtIe
 Jumping_Turtle
 Junglist_
 Juniper7
@@ -1588,11 +1552,9 @@ K0bra
 K9PT
 KKtwenty
 KLakifniov
-KLguns
 KR9
 KRUPP__STEEL
 KYLoooo
-K_A
 K_Flynn
 KaPToHHbIu_EH0T
 Kaap
@@ -1695,7 +1657,6 @@ Korpraali_V
 Kowanda
 Koyaga
 Kozzy
-KptStrzyga
 Kr1szo
 KraKonFOUR
 Krajina_Express
@@ -1732,7 +1693,6 @@ L0ddy
 L0rd_0f_War
 L3gionaire
 L4NDe
-LCpl_Jones
 LGGER
 LK_4D4
 LMW
@@ -1780,7 +1740,6 @@ Legionar_2000
 LekkerBezig
 LelemudNo1
 Lemacque
-Lemmingtrain
 Lenorra
 Lentomies1
 Leodis
@@ -1862,7 +1821,6 @@ Lucci
 Luchs_Luthor
 Lucifer_DaBEAST
 LuciqueiJourney
-Ludo787
 Lummelycopersicon
 LuvDup
 Lycopersicon
@@ -1927,7 +1885,6 @@ Makaan_89
 Maki711
 Makkaroni_100
 Mako666
-Makotti
 Malakaz
 Malakhi75
 Malaren
@@ -1989,7 +1946,6 @@ Medics_Gun
 Mediums_X_are_OP
 Medulla06
 MeetriX
-Megafusion1
 Meglodon
 MeinHerzBrennt
 Meista
@@ -2040,7 +1996,6 @@ Mis_fit
 MissNurki
 Miss_Emily
 MisterCro
-MisterWhippy
 Mister_Red
 Miszka1987
 MitEinemPanzerNachParis
@@ -2076,13 +2031,11 @@ MouzAgrobat
 MrAllko
 MrAmplified
 MrBotosh
-MrClark56
 MrDroopy
 MrE158
 MrEdweird
 MrFabulouz
 MrG721
-MrGimpSuit
 MrKristensen
 MrLawless
 MrTagen
@@ -2090,7 +2043,6 @@ MrWeedy1
 Mr_Beefy
 Mr_BetterThanYou
 Mr_Burrows
-Mr_Chibs
 Mr_Deo
 Mr_Gadget_
 Mr_Love
@@ -2136,7 +2088,6 @@ NakedPassenger
 NakedVegan
 Nakkipipo
 Nakoruru
-Nallic
 NamelessHero_
 Nandee
 Nandiman
@@ -2168,14 +2119,12 @@ Neon_Sparks
 Nerevar22g
 NervosCuNervii
 Nerzul009
-Nethraniel
 NettiWelho
 NewAround
 Nexuo
 Neyaru
 Niaro
 NiceMemeDa
-Nickthedevil
 NiemandXL
 Nikla_
 Niko313
@@ -2257,7 +2206,6 @@ OllieCromwell
 Omnichr0n
 OneBot
 OneBrat
-OneFromOne
 OneSock
 One_Joke
 One_Life_Live_It
@@ -2308,7 +2256,6 @@ Pandabird
 Pandemoniaa
 Pano_ko
 Panocek
-Pansenmann
 PantokratoR667
 Pantzer
 PanzerFaust_79
@@ -2339,7 +2286,6 @@ PassoP
 Pastaiolo
 PatchesThePirate
 Pater_Leppich
-Path64
 Patrol_Duty
 PatroneKonsjele
 PattonRommelMasterPL2001
@@ -2372,7 +2318,6 @@ PhantomDivision
 PhatPhuck
 Phobos4321
 Phocker
-PhooBar
 Phooca
 Photomato2Stronk
 PhroX
@@ -2400,7 +2345,6 @@ Plusk
 Plutoniumeke
 Plygyf_DK
 Pman
-PoIestar
 Poerhis
 PointZero
 PolestarBlue
@@ -2451,7 +2395,6 @@ Psych_Viking
 Psycho_Baby_
 Psychomantis198
 Punisher_GR_
-Pvt_Duffer
 Pvt_Muffy
 PzAbteilung
 PzB
@@ -2509,7 +2452,6 @@ Raikan13
 Rainbow_Warriror
 RakothMaugrim
 RamJamFurburger
-RamRaid90
 Rambe
 RamboPetkovic
 Ramjali123
@@ -2672,7 +2614,6 @@ Sabroan
 SagaJolokia
 Saif
 Saimon69
-SaintMaddenus
 Salentine
 Salezinho
 Salkz
@@ -2729,7 +2670,6 @@ Secuter
 Sedmi
 Seedling
 SeekerKuba
-Seekless
 Sekundenkleber
 Selena__Gomez
 Selous
@@ -2743,7 +2683,6 @@ Sergeant_Antaro_Chronus
 Serial_Suicide_Bomber
 Seriouzhnya
 Serprotease
-Sessine
 Seth_Haveron
 Sevrieck
 Sfinski
@@ -2753,7 +2692,6 @@ SgtBudde
 SgtLeatherface
 Sgt_Bonesgt_Diablo
 Sgt_Diablo
-Sgt_Guffy
 Sh0ckstrik3r
 Sh1sHH_KEBAB
 Shaade_Silentpaw
@@ -2778,7 +2716,6 @@ Sheksna
 ShelbyGT500
 SheldonCooperBazinga
 Shepherqe
-Sheriff__Woody
 ShinGetsu
 Shireknight
 Shivva
@@ -2819,7 +2756,6 @@ SimoniFan
 SimpelenLeuk
 Sinovi_Smrti
 SirBushman
-SirDixie
 SirGruut
 SirKnumskull
 SirMph26
@@ -2845,9 +2781,7 @@ Sleelan
 SlenderMoose
 SlicerDicer
 Slind
-Slubbernaught
 SlyMeerkat
-Slyspy
 SmashK
 SmellyOne
 Smelly_Cat
@@ -2865,7 +2799,6 @@ SneakyWoolCloth
 Snib
 Snoregasm2
 Snortsch
-SnowRelic
 Snowman79
 Sociopats
 Soft_Kitty_Warm_Kitty
@@ -2962,7 +2895,6 @@ Str0nkTenk
 StrEagle
 Straa_
 Strange_Neighbour
-Strappster
 StreetsAhead
 Stressfaktor
 StrikeFIN
@@ -2977,7 +2909,6 @@ Stuka76
 Sturmi_0545
 Sturmtiger_304
 StyleZ_
-SuedKAT
 SufficientlyDamp4Rooting
 Sukpee
 Suli24
@@ -3014,7 +2945,6 @@ Synopsis0
 System98
 SystemSound
 Szatanshow
-T0byJug
 T29Swift
 T3CH89
 T3G_
@@ -3113,7 +3043,6 @@ TheBeefBurger
 TheBrownsound
 TheC00n_
 TheChiQeet
-TheComfyChair
 TheDOD
 TheDayWeDie
 TheDuck24
@@ -3121,7 +3050,6 @@ TheDutchMen
 TheEmpireDidNothingWrong
 TheFalkonett
 TheFurst
-TheJumpMaster
 TheLast_KebapBender
 TheLegendaryBlueZor
 TheLordFlasheart
@@ -3161,7 +3089,6 @@ The_Shoe_Salesman
 The_Silver_Prince
 The_Tankmuseum
 The_Trinityx90
-The_Wallet_Warrior
 ThebaldEagle
 Thejagdpanther
 Thelarion
@@ -3172,7 +3099,6 @@ Tho1528
 Thomeus
 Thoreng
 ThorgrimBrenadim
-Thrael7
 Three_Rounds_Rapid
 Thrombozyt
 Thuis001
@@ -3225,7 +3151,6 @@ Tomah4wk
 Tomerell
 TomiF
 Tomlinson
-Tommy_Atkins_Teapot
 Tommycooker1337
 Tomotorqemada
 Tomygun26
@@ -3321,7 +3246,6 @@ Unkel_Dolan
 UnknownError
 Unknown_Lifeform
 Unurautare
-UrQuan
 Urmo345
 Urphast
 Useless_Pathetic_Stupid
@@ -3360,7 +3284,6 @@ Venitus
 Verbal_kint_742
 Version43
 VerticalBird_
-VeryRisky
 Vestrick64
 ViKing_6
 Vicecomes
@@ -3407,7 +3330,6 @@ WD40_U4G
 WFNecromonger
 WG_pls_fixMM_and_OPs_thx
 WHY_ARE_YOU_READING_THIS
-WOTHero
 WOT_Avenger
 WOTomatoSauce
 WT_auf_Golf_IV
@@ -3429,10 +3351,8 @@ Wartoy
 Warzey
 WasherDryer
 Wattila
-Wayneable
 Wayward_Current
 Wduelist
-We_Just_Dinged_Em
 Weaponise
 WeekendWarrior
 Weihrauchhw95
@@ -3470,7 +3390,6 @@ Woife666
 WolFie90
 Wolfesblut
 Wonko_the_Sane
-Woody1999
 Woras
 Worgaming_Win32_Virus
 WorkingasIntended
@@ -3562,7 +3481,6 @@ Zaros_2014
 Zatan666NL
 ZbysiaxXx69
 ZeFeKa
-Ze_HOFF_fverhoef
 ZecvonZecstein
 ZedTiger
 Zedrick
@@ -3700,7 +3618,6 @@ __ArkAngel__
 __Black_Adder
 __BoT_
 __Delta_
-__Eric__
 __H3H3__
 __HADES
 __LOLEK
@@ -3780,7 +3697,6 @@ amashi
 amistad77
 amji
 ammarmar
-an0ther
 andRe_LV
 andfro
 andi_b
@@ -3839,11 +3755,9 @@ bask185
 batonikPL
 battlecry123
 battles_atlas
-bazdaris
 bazingaa1
 bbrut
 bean57
-beercrazy
 beercritch
 beermonsta
 belBOSS
@@ -3929,7 +3843,6 @@ cb99
 cdgmpl_2016
 cedrom
 ceejee007
-cellaman7
 cestvel
 chakmarin
 chaos7
@@ -4041,7 +3954,6 @@ demian_sartre
 demon_tank
 demonaii
 denisdenikr
-dennez
 deorum
 derEselausErgste
 deveen23
@@ -4176,7 +4088,6 @@ goirad
 goldeneye_hd
 goomStar
 gpalsson
-grasjnak
 gravelbelly
 grayfoxCode
 grdja
@@ -4207,7 +4118,6 @@ halfdead
 hammer45
 hamstor
 handgranaat
-hansvonb
 happyal
 harry_monkley
 hasanhuseyin_blks
@@ -4264,7 +4174,6 @@ ilmavarvas
 ilosz
 ilstallione
 imastalker15
-imendars
 immortal_sniper1
 imperiumgraecum
 incurably
@@ -4391,7 +4300,6 @@ kotysoft
 kramxel
 krautjaeger
 krazy_8
-krazypenguin
 kreso03
 kripton69
 kriskowtff
@@ -4440,7 +4348,6 @@ levakk
 lewisdawson1
 lewisunderwood
 lfcfan
-lgfrbcsgo
 lgorek
 lh331
 libaf
@@ -4483,7 +4390,6 @@ macenkrace
 macholibre
 macman90
 macula_2000
-mad0mat
 madmatone
 magkiln
 magnus417
@@ -4527,7 +4433,6 @@ mazur131313
 mbcyber
 mcanguish
 mcjrosa
-mcrele
 mdms
 meaprima
 mehmetsar9398
@@ -4575,7 +4480,6 @@ morganakis_gr
 morgotz
 mortalsatsuma
 mouzAkrobat
-mpf1959
 mr3awsome
 mr_gaspy
 mrkif
@@ -4588,7 +4492,6 @@ murjar
 mvdt
 mynameispuffs
 myndzha
-mystikro
 n0cturn4l
 nacodeltoro
 nagje
@@ -4734,7 +4637,6 @@ pseudodespot
 psychobear
 pticoco
 pucku
-puddlee
 pudelikael
 pun_xD
 punishersal
@@ -4743,7 +4645,6 @@ purefodder
 purplehayes
 pussinbootsraffy
 putos_opat_v_akci
-qpranger
 qqq10
 qrwot
 quinch1199
@@ -4751,7 +4652,6 @@ qwert12345on
 r0f
 r1speedyrider
 rabitson
-radd666
 radianter
 radioactive1995
 radius77
@@ -4766,7 +4666,6 @@ ramram70
 rancidpunk
 rapekk90
 rasfo
-raulz0r
 realkaischi
 reaper20k
 rednif
@@ -4792,7 +4691,6 @@ rptb1
 rsanders5
 rurkovsky
 rush0620
-rustysprite
 rusuradustefan
 ryder911
 ryry
@@ -4802,7 +4700,6 @@ s222
 s3thus
 sTeblo
 sabre_ferret
-sabresteel
 sacuka
 sady3296
 safari155
@@ -4810,7 +4707,6 @@ saidor
 sajko33
 samolikvidator
 samphilconlor
-samuelx43a
 san_tropez
 sandfacer
 sartox1
@@ -4849,7 +4745,6 @@ shrapnel_bait
 shurasol
 sid257
 sifis_21
-signal11th
 silverdwarf
 simiid
 sir_alex_ice
@@ -4889,8 +4784,6 @@ spichopat
 spidre
 splint33
 spoonlamp
-spuff
-spuriousmonkey
 squarerigger
 sr_4vc1
 sruz25cz
@@ -4917,7 +4810,6 @@ suvicze
 svadilfari
 swamp_thing
 sweeper_
-sword_of_Damocles
 szczerbo1507
 szuwax666
 taattis
@@ -5022,7 +4914,6 @@ ullandon
 ultragamer659
 unKnown_bot
 understand
-undutchable80
 unfluffydave
 unhappy_bunny
 unknown_object
@@ -5061,7 +4952,6 @@ w00lfie
 wEight_Tanker
 wGh4v3n0cu570m3r5upp0r7
 wannop1970
-war4peace
 warcrocco
 warisoverdragon
 warlock07rox
@@ -5115,7 +5005,6 @@ yarsun
 yessuz
 yockovich
 yonzariq
-ypr765prco
 ysk
 yun9
 zakiscool
@@ -5129,7 +5018,6 @@ zefamousmitch
 zeljkosvilokos
 zen_monk_
 zenamko
-zeppombal
 zerosumgame
 zetruenando
 zigasi86
