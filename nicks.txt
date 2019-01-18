@@ -206,6 +206,7 @@ AriannaWolf
 ArimanBG
 ArkSin
 ArkSyve
+Arkarthurer
 Arkean
 Arkhell
 Armatt
@@ -2259,6 +2260,7 @@ Panocek
 PantokratoR667
 Pantzer
 PanzerFaust_79
+PanzerFever
 PanzerGrenadier
 PanzerHAnz
 PanzerKFeldherrnhalle
