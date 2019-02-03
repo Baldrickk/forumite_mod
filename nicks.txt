@@ -338,7 +338,6 @@ BiG_BoBo_BG
 BicycleOfDeath
 Bielizna
 BierKanonier
-BigBadVuk
 BigBlackTog
 BigDawn
 BigFellas_Dad
@@ -1627,6 +1626,7 @@ KingMatt
 KingSaxon
 KingTiger15
 King_Khazi
+KinkyTail
 Kirage
 Kirgwa
 Kiril1512
@@ -2111,7 +2111,6 @@ Nechrom
 Nectaria
 NefertumCz
 Negativvv
-Neilloss46
 Nekomancer
 Nekrodamus
 Nemenyi
@@ -2553,7 +2552,6 @@ RockyRoller
 Rod_75
 Rode_
 Roebuck34
-RogDodgeUK
 Roger_Rocketpants
 RogueWraith909
 Rokasovski
@@ -2666,7 +2664,6 @@ SeRoHe
 Search_Warrant
 Sebastianul
 Sebenza
-Secret_Santa
 Secularliberal
 Secuter
 Sedmi
@@ -3630,7 +3627,6 @@ __Patton___
 __Santana__
 __Savage___
 __Spectre
-__Spectre
 __TheHound__
 __Zippy__
 ___Animal___
@@ -4004,7 +4000,6 @@ echo7
 ederfedowardo2016
 edowardo2016
 edraket31
-eekeeboo
 efe_TR
 eidias
 el33teN00Bplay3r
